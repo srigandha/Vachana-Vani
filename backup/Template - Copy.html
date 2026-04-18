@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+
+<html lang="kn">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vachana Flyer</title>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Noto+Serif+Kannada:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Cinzel:wght@400;600&display=swap"
+    rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 794px;
+      height: 1123px;
+      background: #1a0f00;
+      font-family: ‘Cormorant Garamond’, serif;
+      overflow: hidden;
+    }
+
+    .flyer {
+      width: 794px;
+      height: 1123px;
+      background: linear-gradient(160deg, #fdf6e3 0%, #f5e6c8 40%, #ede0b8 100%);
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      border: 12px solid #8b1a1a;
+      outline: 2px solid #c9a84c;
+      outline-offset: -18px;
+    }
+
+    /* Decorative corner motifs */
+    .corner {
+      position: absolute;
+      width: 60px;
+      height: 60px;
+      z-index: 10;
+    }
+
+    .corner svg {
+      width: 100%;
+      height: 100%;
+    }
+
+    .corner-tl {
+      top: 22px;
+      left: 22px;
+    }
+
+    .corner-tr {
+      top: 22px;
+      right: 22px;
+      transform: scaleX(-1);
+    }
+
+    .corner-bl {
+      bottom: 22px;
+      left: 22px;
+      transform: scaleY(-1);
+    }
+
+    .corner-br {
+      bottom: 22px;
+      right: 22px;
+      transform: scale(-1);
+    }
+
+    /* Horizontal divider between top and bottom halves */
+    .divider {
+      width: calc(100% - 80px);
+      margin: 0 auto;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, #c9a84c 20%, #8b1a1a 50%, #c9a84c 80%, transparent);
+      flex-shrink: 0;
+    }
+
+    .divider-thin {
+      width: calc(100% - 80px);
+      margin: 0 auto;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, #c9a84c 20%, #8b1a1a 50%, #c9a84c 80%, transparent);
+      flex-shrink: 0;
+    }
+
+    /* ── TOP SECTION (≈ 1/3 height) ── */
+    .top-section {
+      display: flex;
+      flex: 0 0 calc(1123px / 3 - 12px);
+      padding: 0 50px;
+      gap: 28px;
+      align-items: center;
+      position: relative;
+    }
+
+    /* Top header strip */
+    .top-header {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 36px;
+      background: linear-gradient(90deg, #8b1a1a, #6b1010, #8b1a1a);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .top-header-text {
+      font-family: ‘Cinzel’, serif;
+      color: #f5d98b;
+      font-size: 11px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+    }
+
+    .header-meta {
+      font-family: 'Cinzel', serif;
+      color: #f5d98b;
+      font-size: 7px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      position: absolute;
+      top: 4px;
+      right: 15px;
+    }
+
+    /* Vachana text (top-left) */
+    .vachana-block {
+      flex: 1;
+      padding-top: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .vachana-label {
+      font-family: ‘Cinzel’, serif;
+      font-size: 9px;
+      letter-spacing: 3px;
+      color: #8b1a1a;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+
+    .vachana-text {
+      font-family: ‘Noto Serif Kannada’, serif;
+      font-size: 17px;
+      line-height: 2;
+      color: #2c1810;
+      font-weight: 600;
+    }
+
+    .vachana-line {
+      display: block;
+      padding: 2px 0;
+    }
+
+    .vachana-line.highlighted {
+      color: #8b1a1a;
+    }
+
+    /* Image block (top-right) */
+    .image-block {
+      flex: 0 0 190px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding-top: 20px;
+      gap: 10px;
+    }
+
+    .image-frame {
+      width: 160px;
+      height: 185px;
+      border: 3px solid #c9a84c;
+      background: linear-gradient(135deg, #e8d5a3, #d4b97a);
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 12px;
+      box-sizing: border-box;
+      overflow: hidden;
+      box-shadow: 4px 4px 20px rgba(139, 26, 26, 0.25);
+    }
+
+    .image-frame::before {
+      content: ‘’;
+      position: absolute;
+      inset: 5px;
+      border: 1px solid #c9a84c;
+      pointer-events: none;
+      z-index: 2;
+    }
+
+    .image-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      position: relative;
+      z-index: 1;
+    }
+
+    .placeholder-icon {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      color: #8b5e1a;
+      opacity: 0.6;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      justify-content: center;
+      z-index: 2;
+      background: inherit;
+    }
+
+    .placeholder-icon svg {
+      width: 48px;
+      height: 48px;
+    }
+
+    .placeholder-icon span {
+      font-size: 10px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .vachanakara-name {
+      font-family: ‘Cinzel’, serif;
+      font-size: 13px;
+      color: #8b1a1a;
+      letter-spacing: 2px;
+      text-align: center;
+      font-weight: 600;
+    }
+
+    .vachanakara-subtitle {
+      font-size: 10px;
+      font-family: ‘Cormorant Garamond’, serif;
+      color: #6b4226;
+      letter-spacing: 1px;
+      font-style: italic;
+      text-align: center;
+    }
+
+    /* ── BOTTOM SECTION (≈ 2/3 height) ── */
+    .bottom-section {
+      flex: 1;
+      display: flex;
+      gap: 0;
+      padding: 0 50px 50px;
+      overflow: hidden;
+    }
+
+    /* Meaning block (bottom-left) */
+    .meaning-block {
+      flex: 1;
+      padding-right: 28px;
+      padding-top: 24px;
+      overflow: hidden;
+    }
+
+    .section-label {
+      font-family: ‘Cinzel’, serif;
+      font-size: 9px;
+      letter-spacing: 3px;
+      color: #8b1a1a;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .section-label::after {
+      content: ‘’;
+      flex: 1;
+      height: 1px;
+      background: linear-gradient(90deg, #c9a84c, transparent);
+    }
+
+    .meaning-entry {
+      margin-bottom: 16px;
+      padding-left: 14px;
+      border-left: 3px solid #c9a84c;
+    }
+
+    .meaning-kannada {
+      font-family: ‘Noto Serif Kannada’, serif;
+      font-size: 13.5px;
+      color: #8b1a1a;
+      font-weight: 600;
+      line-height: 1.6;
+      margin-bottom: 4px;
+    }
+
+    .meaning-english {
+      font-family: ‘Cormorant Garamond’, serif;
+      font-size: 14px;
+      color: #3d2010;
+      line-height: 1.6;
+      font-style: italic;
+    }
+
+    /* Vertical separator */
+    .v-sep {
+      width: 1px;
+      background: linear-gradient(180deg, transparent, #c9a84c 20%, #8b1a1a 50%, #c9a84c 80%, transparent);
+      margin: 24px 0 10px;
+      flex-shrink: 0;
+    }
+
+    /* Context block (bottom-right) */
+    .context-block {
+      flex: 0 0 180px;
+      padding-left: 28px;
+      padding-top: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .context-card {
+      background: linear-gradient(135deg, rgba(139, 26, 26, 0.07), rgba(201, 168, 76, 0.10));
+      border: 1px solid #c9a84c;
+      padding: 14px 14px;
+      position: relative;
+    }
+
+    .context-card::before {
+      position: absolute;
+      top: 4px;
+      left: 4px;
+      right: 4px;
+      bottom: 4px;
+      border: 1px solid rgba(201, 168, 76, 0.3);
+      pointer-events: none;
+    }
+
+    .context-card-title {
+      font-family: ‘Cinzel’, serif;
+      font-size: 8.5px;
+      letter-spacing: 2px;
+      color: #8b1a1a;
+      text-transform: uppercase;
+      margin-bottom: 7px;
+    }
+
+    .context-card-text {
+      font-family: ‘Cormorant Garamond’, serif;
+      font-size: 13px;
+      color: #3d2010;
+      line-height: 1.65;
+    }
+
+    /* Footer strip */
+    .footer-strip {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 28px;
+      background: linear-gradient(90deg, #8b1a1a, #6b1010, #8b1a1a);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .footer-text {
+      font-family: ‘Cinzel’, serif;
+      color: #f5d98b;
+      font-size: 9px;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+    }
+
+    .footer-website {
+      font-family: 'Cormorant Garamond', serif;
+      color: #f5d98b;
+      font-size: 8px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      position: absolute;
+      bottom: 2px;
+      right: 15px;
+    }
+
+    .footer-meta {
+      font-family: 'Cinzel', serif;
+      color: #f5d98b;
+      font-size: 7px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      position: absolute;
+      bottom: 2px;
+      left: 15px;
+    }
+
+    /* Decorative watermark */
+    .watermark {
+      position: absolute;
+      bottom: 80px;
+      right: 55px;
+      font-family: ‘Noto Serif Kannada’, serif;
+      font-size: 80px;
+      color: rgba(139, 26, 26, 0.05);
+      pointer-events: none;
+      line-height: 1;
+      z-index: 0;
+    }
+
+    /* Print styles for A4 page */
+    @media print {
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      html,
+      body {
+        width: 210mm;
+        height: 297mm;
+        margin: 0;
+        padding: 0;
+        background: white;
+      }
+
+      .flyer {
+        width: 210mm;
+        height: 297mm;
+        margin: 0;
+        padding: 0;
+        page-break-after: avoid;
+        page-break-before: avoid;
+        page-break-inside: avoid;
+        box-shadow: none;
+      }
+
+      body {
+        background: white;
+        overflow: visible;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+  <div class="flyer">
+
+    <!-- Corner Ornaments -->
+
+    <div class="corner corner-tl">
+      <svg viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5 55 L5 5 L55 5" stroke="#c9a84c" stroke-width="2" fill="none" />
+        <path d="M5 5 Q20 20 5 35 Q20 20 35 5" stroke="#8b1a1a" stroke-width="1.5" fill="none" />
+        <circle cx="5" cy="5" r="3" fill="#c9a84c" />
+      </svg>
+    </div>
+    <div class="corner corner-tr">
+      <svg viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5 55 L5 5 L55 5" stroke="#c9a84c" stroke-width="2" fill="none" />
+        <path d="M5 5 Q20 20 5 35 Q20 20 35 5" stroke="#8b1a1a" stroke-width="1.5" fill="none" />
+        <circle cx="5" cy="5" r="3" fill="#c9a84c" />
+      </svg>
+    </div>
+    <div class="corner corner-bl">
+      <svg viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5 55 L5 5 L55 5" stroke="#c9a84c" stroke-width="2" fill="none" />
+        <path d="M5 5 Q20 20 5 35 Q20 20 35 5" stroke="#8b1a1a" stroke-width="1.5" fill="none" />
+        <circle cx="5" cy="5" r="3" fill="#c9a84c" />
+      </svg>
+    </div>
+    <div class="corner corner-br">
+      <svg viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5 55 L5 5 L55 5" stroke="#c9a84c" stroke-width="2" fill="none" />
+        <path d="M5 5 Q20 20 5 35 Q20 20 35 5" stroke="#8b1a1a" stroke-width="1.5" fill="none" />
+        <circle cx="5" cy="5" r="3" fill="#c9a84c" />
+      </svg>
+    </div>
+
+    <!-- Decorative watermark -->
+
+    <div class="watermark">ವಚನ ವಾಣಿ</div>
+
+    <!-- ── TOP SECTION ── -->
+
+    <div class="top-section">
+      <div class="top-header">
+        <span class="top-header-text">ವಚನ ವಾಣಿ &nbsp;·&nbsp; Vachana Vaani</span>
+      </div>
+
+      <!-- Vachana Text (top-left) -->
+      <div class="vachana-block">
+        <div class="vachana-label">ವಚನ · Vachana</div>
+        <div class="vachana-text" id="vachana-text"></div>
+      </div>
+
+      <!-- Image (top-right) -->
+      <div class="image-block">
+        <div class="image-frame">
+          <img id="vachanakara-img" src="" alt="">
+          <div id="placeholder" class="placeholder-icon" style="display:none;">
+            <svg viewBox="0 0 48 48" fill="none" stroke="#8b5e1a" stroke-width="1.5">
+              <circle cx="24" cy="18" r="8" />
+              <path d="M8 42c0-8.837 7.163-16 16-16s16 7.163 16 16" />
+            </svg>
+            <span id="placeholder-name">Poet Name</span>
+          </div>
+        </div>
+        <div class="vachanakara-name" id="poet-name"></div>
+        <div class="vachanakara-subtitle" id="poet-subtitle"></div>
+      </div>
+
+    </div>
+
+    <!-- Divider -->
+
+    <div class="divider"></div>
+    <div style="height:3px;"></div>
+    <div class="divider-thin"></div>
+
+    <!-- ── BOTTOM SECTION ── -->
+
+    <div class="bottom-section">
+
+      <!-- Line-by-line meaning (bottom-left) -->
+      <div class="meaning-block" id="meaning-block">
+        <div class="section-label">ಅರ್ಥ · Line-by-Line Meaning</div>
+        <div id="meanings-container"></div>
+      </div>
+
+      <!-- Vertical separator -->
+      <div class="v-sep"></div>
+
+      <!-- Context / Theme (bottom-right) -->
+      <div class="context-block" id="context-block">
+        <div class="section-label" style="font-size:8px; letter-spacing:2px;">ತಿರುಳು</div>
+      </div>
+
+    </div>
+
+    <!-- Footer -->
+
+    <div class="footer-strip">
+      <span class="footer-meta">2026 · Edition 1</span>
+      <span class="footer-text">ಶರಣ ಸಾಹಿತ್ಯ &nbsp;·&nbsp; The Living Wisdom of Vachanas</span>
+      <span class="footer-website">www.vsnynj.org</span>
+    </div>
+
+  </div>
+
+  <script>
+    // Get poet parameter from URL (e.g., ?poet=akkamahadevi)
+    const urlParams = new URLSearchParams(window.location.search);
+    const poetParam = urlParams.get('poet') || 'basavanna';
+
+    // Load and populate content
+    async function loadPoetContent() {
+      try {
+        // Load JSON data
+        const response = await fetch('vachana-data.json');
+        const data = await response.json();
+
+        // Get the selected poet's data (fallback to basavanna if not found)
+        const poetData = data.vachankaras[poetParam] || data.vachankaras['basavanna'];
+
+        // Update page title
+        document.title = `${poetData.name} Vachana Flyer`;
+
+        // Update poet information
+        document.getElementById('poet-name').textContent = poetData.name;
+        document.getElementById('poet-subtitle').textContent = poetData.subtitle;
+
+        const imgElement = document.getElementById('vachanakara-img');
+        imgElement.src = poetData.image;
+        imgElement.alt = poetData.name;
+
+        // Handle image load/error
+        imgElement.onerror = function () {
+          this.style.display = 'none';
+          document.getElementById('placeholder').style.display = 'flex';
+        };
+
+        // Update placeholder name if it exists
+        const placeholderName = document.getElementById('placeholder-name');
+        if (placeholderName) {
+          placeholderName.textContent = poetData.name;
+        }
+
+        // Update vachana lines
+        const vachanaTextContainer = document.getElementById('vachana-text');
+        vachanaTextContainer.innerHTML = poetData.vachanaLines
+          .map(line => `<span class="vachana-line highlighted">${line}</span>`)
+          .join('\n');
+
+        // Update meanings
+        const meaningsContainer = document.getElementById('meanings-container');
+        meaningsContainer.innerHTML = poetData.meanings
+          .map(meaning => `
+            <div class="meaning-entry">
+              <div class="meaning-kannada">${meaning.kannada}</div>
+              <div class="meaning-english">${meaning.english}</div>
+            </div>
+          `)
+          .join('');
+
+        // Update context cards
+        const contextBlock = document.getElementById('context-block');
+        const contextCardsHTML = poetData.contextCards
+          .map(card => `
+            <div class="context-card">
+              <div class="context-card-title">${card.title}</div>
+              <div class="context-card-text">${card.text}</div>
+            </div>
+          `)
+          .join('');
+
+        // Insert context cards after the section-label
+        const sectionLabel = contextBlock.querySelector('.section-label');
+        sectionLabel.insertAdjacentHTML('afterend', contextCardsHTML);
+
+      } catch (error) {
+        console.error('Error loading poet data:', error);
+      }
+    }
+
+    // Load content when page is ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', loadPoetContent);
+    } else {
+      loadPoetContent();
+    }
+  </script>
+</body>
+
+</html>

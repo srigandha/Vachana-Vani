@@ -1,0 +1,105 @@
+{
+  "vachankaras": {
+    "basavanna": {
+      "name": "Basavanna",
+      "image": "images/Basavanna.jpg",
+      "subtitle": "12th-century social reformer, philosopher, and statesman. Founder of the Lingayat movement and master of the vachana tradition.",
+      "vachanas": [
+        {
+          "flyerSequence": 1,
+          "publishedDate": "2026-04-17",
+          "weekNumber": 1,
+          "edition": 1,
+          "vachanaLines": [
+            "ಹೊಯ್ದಡೆ ಹೊಯ್ಗಳು ಕೈಯ ಮೇಲೆ,",
+            "ಬೈದಡೆ ಬೈಗಳು ಕೈಯ ಮೇಲೆ.",
+            "ಹಿಂದಣ ಜನನವೇದಡಾಗಲಿ,",
+            "ಇಂದಿನ ಭೋಗವು ಕೈಯ ಮೇಲೆ.",
+            "ಕೂಡಲಸಂಗಮದೇವಯ್ಯಾ",
+            "ನಿಮ್ಮ ಪೂಜಿಸಿದ ಫಲ ಕೈಯ ಮೇಲೆ."
+          ],
+          "meanings": [
+            {
+              "kannada": "ಹೊಯ್ದಡೆ ಹೊಯ್ಗಳು ಕೈಯ ಮೇಲೆ",
+              "transliteration": "Hoydaḍe hoygaḷu kaiya mēle",
+              "english": "If you strike someone, the act of striking rests on your own hands — you bear the consequence of violence."
+            },
+            {
+              "kannada": "ಬೈದಡೆ ಬೈಗಳು ಕೈಯ ಮೇಲೆ",
+              "transliteration": "Baidade baigalu kaiyu mele",
+              "english": "If you curse or abuse another, those very words return to burden your own hands — your speech defines you."
+            },
+            {
+              "kannada": "ಹಿಂದಣ ಜನನವೇದಡಾಗಲಿ, ಇಂದಿನ ಭೋಗವು ಕೈಯ ಮೇಲೆ",
+              "transliteration": "Hindaṇa jananavēdaḍāgali, indina bhōgavu kaiya mēle",
+              "english": "Whatever your past birth may have been, the fruits of your present deeds and experiences are entirely in your hands today."
+            },
+            {
+              "kannada": "ಕೂಡಲಸಂಗಮದೇವಯ್ಯಾ, ನಿಮ್ಮ ಪೂಜಿಸಿದ ಫಲ ಕೈಯ ಮೇಲೆ",
+              "transliteration": "Kūḍala saṅgamadēvayyā, nimma pūjisida phala kaiya mēle",
+              "english": "O Lord Kudala Sangama, the reward of worshipping you and living righteously is immediate — it is right here, in our own hands."
+            }
+          ],
+          "contextCards": [
+            {
+              "text": "Personal accountability — every action, word, and deed creates its own immediate result in this very life."
+            },
+            {
+              "text": "Basavanna rejects fatalism. Past births do not bind us — righteous living brings its own fruit, here and now."
+            }
+          ]
+        }
+      ]
+    },
+    "akkamahadevi": {
+      "name": "Akkamahadevi",
+      "image": "images/Akkamahadevi.jpg",
+      "subtitle": "12th-century mystic saint and devotional poet. Known for her passionate love poetry and radical spiritual independence.",
+      "vachanas": [
+        {
+          "flyerSequence": 2,
+          "publishedDate": "2026-04-24",
+          "weekNumber": 1,
+          "edition": 1,
+          "vachanaLines": [
+            "ಹೊ ಸುಳಿಗ ನನ್ನ ದೇಹ ಕೊಟ್ಟೆ,",
+            "ನೆಯ್ದುದ್ ನನ್ನ ಮನ ಕೊಟ್ಟೆ.",
+            "ಬರತಗಿ ನನ್ನ ವಿಷ್ಠೆ ಕೊಟ್ಟೆ,",
+            "ವೀರ ಸುಂದರವಾಗಿದೆ ನಿನ್ನ",
+            "ಚೆಲ್ಲ ಎಂದು ಗಿರಿಜ ಸೊಂಕೊ."
+          ],
+          "meanings": [
+            {
+              "kannada": "ಹೊ ಸುಳಿಗ ನನ್ನ ದೇಹ ಕೊಟ್ಟೆ,",
+              "transliteration": "Ho sulige nanna dēh kotte,",
+              "english": "To the Lord Shuliga, I have offered my body,"
+            },
+            {
+              "kannada": "ನೆಯ್ದುದ್ ನನ್ನ ಮನ ಕೊಟ್ಟೆ.",
+              "transliteration": "Neydud nanna man kotte.",
+              "english": "I have given my mind as well."
+            },
+            {
+              "kannada": "ಬರತಗಿ ನನ್ನ ವಿಷ್ಠೆ ಕೊಟ್ಟೆ,",
+              "transliteration": "Baratagi nanna vishthe kotte,",
+              "english": "I have devoted my entire being to Him,"
+            },
+            {
+              "kannada": "ವೀರ ಸುಂದರವಾಗಿದೆ ನಿನ್ನ ಚೆಲ್ಲ",
+              "transliteration": "Vīr sundaravāgide ninna chella",
+              "english": "O brave and beautiful one, You are my Lord and master."
+            }
+          ],
+          "contextCards": [
+            {
+              "text": "Total surrender to the divine beloved. The dissolution of ego through ecstatic devotion."
+            },
+            {
+              "text": "Akkamahadevi rejects social conventions for authentic spiritual experience. Divine union transcends all worldly attachments."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

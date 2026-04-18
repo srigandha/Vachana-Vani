@@ -1,0 +1,46 @@
+Extract the vachana from either:
+
+1. A URL that contains a Kannada vachana (sacred poem) by a famous Vachanakara
+2. Or the raw Kannada vachana text itself
+
+If using a URL, replace the placeholder below with the URL:
+
+[PASTE YOUR URL LINE HERE]
+
+If using raw vachana text, replace the placeholder below with the full Kannada lines:
+
+[PASTE YOUR KANNADA VACHANA LINES HERE]
+
+Please provide:
+1. Line-by-line transliteration (Kannada to Roman script using ITRANS or standard Kannada romanization)
+2. Line-by-line English translation/meaning
+3. Two context cards with spiritual themes
+
+Return the response in **EXACTLY** this JSON format (no markdown, just raw JSON):
+
+{
+  "weekNumber": <fill>,
+  "vachankaraName": <fill>,
+  "reference": "<INPUT URL OR SOURCE DESCRIPTION>",
+  "vachanaLines": [ALL ORIGINAL VACHANA LINES],
+  "meanings": [
+    {
+      "kannada": "[ORIGINAL LINE]",
+      "transliteration": "[Roman script pronunciation]",
+      "english": "[English translation of this line]"
+    },
+    {
+      "kannada": "[NEXT LINE]",
+      "transliteration": "[Roman script]",
+      "english": "[Its meaning]"
+    }
+  ],
+  "contextCards": [
+    {
+      "text": "[Spiritual theme or insight]"
+    },
+    {
+      "text": "[Another spiritual insight]"
+    }
+  ]
+}

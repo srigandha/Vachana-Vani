@@ -1,0 +1,324 @@
+{
+  "title": "ಶರಣ ತತ್ತ್ವಾಧಾರಿತ ವಾರಗಳ ಹೆಸರುಗಳು",
+  "subtitle": "Sharana-rooted Week Names (52-week spiritual cycle)",
+  "weeks": [
+    {
+      "number": 1,
+      "kannada": "ಶ್ರದ್ಧೆ",
+      "english": "Shraddhe",
+      "category": "ಮೂಲಾಧಾರ (ಆರಂಭ)"
+    },
+    {
+      "number": 2,
+      "kannada": "ಭಕ್ತಿ",
+      "english": "Bhakti",
+      "category": "ಮೂಲಾಧಾರ (ಆರಂಭ)"
+    },
+    {
+      "number": 3,
+      "kannada": "ಸ್ಮರಣೆ",
+      "english": "Smarane",
+      "category": "ಮೂಲಾಧಾರ (ಆರಂಭ)"
+    },
+    {
+      "number": 4,
+      "kannada": "ಸಂಕಲ್ಪ",
+      "english": "Sankalpa",
+      "category": "ಮೂಲಾಧಾರ (ಆರಂಭ)"
+    },
+    {
+      "number": 5,
+      "kannada": "ಶರಣಾಗತಿ",
+      "english": "Sharanagati",
+      "category": "ಮೂಲಾಧಾರ (ಆರಂಭ)"
+    },
+    {
+      "number": 6,
+      "kannada": "ನಮನ",
+      "english": "Namana",
+      "category": "ಮೂಲಾಧಾರ (ಆರಂಭ)"
+    },
+    {
+      "number": 7,
+      "kannada": "ವಿನಯ",
+      "english": "Vinaya",
+      "category": "ಮೂಲಾಧಾರ (ಆರಂಭ)"
+    },
+    {
+      "number": 8,
+      "kannada": "ನಿಷ್ಠೆ",
+      "english": "Nishṭhe",
+      "category": "ಮೂಲಾಧಾರ (ಆರಂಭ)"
+    },
+    {
+      "number": 9,
+      "kannada": "ಸತ್ಯ",
+      "english": "Satya",
+      "category": "ಸತ್ಸಂಸ್ಕಾರ / ಸದುಪಚಾರ"
+    },
+    {
+      "number": 10,
+      "kannada": "ಧರ್ಮ",
+      "english": "Dharma",
+      "category": "ಸತ್ಸಂಸ್ಕಾರ / ಸದುಪಚಾರ"
+    },
+    {
+      "number": 11,
+      "kannada": "ಆಚಾರ",
+      "english": "Āchāra",
+      "category": "ಸತ್ಸಂಸ್ಕಾರ / ಸದುಪಚಾರ"
+    },
+    {
+      "number": 12,
+      "kannada": "ಸದಾಚಾರ",
+      "english": "Sadāchāra",
+      "category": "ಸತ್ಸಂಸ್ಕಾರ / ಸದುಪಚಾರ"
+    },
+    {
+      "number": 13,
+      "kannada": "ನ್ಯಾಯ",
+      "english": "Nyāya",
+      "category": "ಸತ್ಸಂಸ್ಕಾರ / ಸದುಪಚಾರ"
+    },
+    {
+      "number": 14,
+      "kannada": "ನೀತಿ",
+      "english": "Nīti",
+      "category": "ಸತ್ಸಂಸ್ಕಾರ / ಸದುಪಚಾರ"
+    },
+    {
+      "number": 15,
+      "kannada": "ಶುದ್ಧಿ",
+      "english": "Shuddhi",
+      "category": "ಸತ್ಸಂಸ್ಕಾರ / ಸದುಪಚಾರ"
+    },
+    {
+      "number": 16,
+      "kannada": "ಆರ್ಜವ",
+      "english": "Ārjava",
+      "category": "ಸತ್ಸಂಸ್ಕಾರ / ಸದುಪಚಾರ"
+    },
+    {
+      "number": 17,
+      "kannada": "ಕಾಯಕ",
+      "english": "Kāyaka",
+      "category": "ಸಮಾಜ ಸೇವೆ"
+    },
+    {
+      "number": 18,
+      "kannada": "ದಾಸೋಹ",
+      "english": "Dāsoha",
+      "category": "ಸಮಾಜ ಸೇವೆ"
+    },
+    {
+      "number": 19,
+      "kannada": "ಸೇವೆ",
+      "english": "Seve",
+      "category": "ಸಮಾಜ ಸೇವೆ"
+    },
+    {
+      "number": 20,
+      "kannada": "ಸಹಕಾರ",
+      "english": "Sahakāra",
+      "category": "ಸಮಾಜ ಸೇವೆ"
+    },
+    {
+      "number": 21,
+      "kannada": "ಸಮತೆ",
+      "english": "Samate",
+      "category": "ಸಮಾಜ ಸೇವೆ"
+    },
+    {
+      "number": 22,
+      "kannada": "ಕರುಣೆ",
+      "english": "Karune",
+      "category": "ಸಮಾಜ ಸೇವೆ"
+    },
+    {
+      "number": 23,
+      "kannada": "ಪ್ರೀತಿ",
+      "english": "Prīti",
+      "category": "ಸಮಾಜ ಸೇವೆ"
+    },
+    {
+      "number": 24,
+      "kannada": "ಮೈತ್ರಿ",
+      "english": "Maitri",
+      "category": "ಸಮಾಜ ಸೇವೆ"
+    },
+    {
+      "number": 25,
+      "kannada": "ಜ್ಞಾನ",
+      "english": "Jnana",
+      "category": "ಜ್ಞಾನ ಮತ್ತು ಚಿಂತನೆ"
+    },
+    {
+      "number": 26,
+      "kannada": "ವಿವೇಕ",
+      "english": "Viveka",
+      "category": "ಜ್ಞಾನ ಮತ್ತು ಚಿಂತನೆ"
+    },
+    {
+      "number": 27,
+      "kannada": "ವಿಚಾರ",
+      "english": "Vichāra",
+      "category": "ಜ್ಞಾನ ಮತ್ತು ಚಿಂತನೆ"
+    },
+    {
+      "number": 28,
+      "kannada": "ಬೋಧ",
+      "english": "Bodha",
+      "category": "ಜ್ಞಾನ ಮತ್ತು ಚಿಂತನೆ"
+    },
+    {
+      "number": 29,
+      "kannada": "ಪ್ರಜ್ಞೆ",
+      "english": "Prajñe",
+      "category": "ಜ್ಞಾನ ಮತ್ತು ಚಿಂತನೆ"
+    },
+    {
+      "number": 30,
+      "kannada": "ಧ್ಯಾನ",
+      "english": "Dhyāna",
+      "category": "ಜ್ಞಾನ ಮತ್ತು ಚಿಂತನೆ"
+    },
+    {
+      "number": 31,
+      "kannada": "ಏಕಾಗ್ರತೆ",
+      "english": "Ekāgrate",
+      "category": "ಜ್ಞಾನ ಮತ್ತು ಚಿಂತನೆ"
+    },
+    {
+      "number": 32,
+      "kannada": "ಅಂತರ್ಮುಖತೆ",
+      "english": "Antarmukhate",
+      "category": "ಜ್ಞಾನ ಮತ್ತು ಚಿಂತನೆ"
+    },
+    {
+      "number": 33,
+      "kannada": "ವೈರಾಗ್ಯ",
+      "english": "Vairāgya",
+      "category": "ವೈರಾಗ್ಯ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿ"
+    },
+    {
+      "number": 34,
+      "kannada": "ತ್ಯಾಗ",
+      "english": "Tyāga",
+      "category": "ವೈರಾಗ್ಯ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿ"
+    },
+    {
+      "number": 35,
+      "kannada": "ಸಂಯಮ",
+      "english": "Sanyama",
+      "category": "ವೈರಾಗ್ಯ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿ"
+    },
+    {
+      "number": 36,
+      "kannada": "ಧೈರ್ಯ",
+      "english": "Dhairya",
+      "category": "ವೈರಾಗ್ಯ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿ"
+    },
+    {
+      "number": 37,
+      "kannada": "ಸಹನೆ",
+      "english": "Sahane",
+      "category": "ವೈರಾಗ್ಯ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿ"
+    },
+    {
+      "number": 38,
+      "kannada": "ಕ್ಷಮೆ",
+      "english": "Kṣame",
+      "category": "ವೈರಾಗ್ಯ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿ"
+    },
+    {
+      "number": 39,
+      "kannada": "ಉಪೇಕ್ಷೆ",
+      "english": "Upekṣe",
+      "category": "ವೈರಾಗ್ಯ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿ"
+    },
+    {
+      "number": 40,
+      "kannada": "ಶಾಂತಿ",
+      "english": "Shānti",
+      "category": "ವೈರಾಗ್ಯ ಮತ್ತು ಆಂತರಿಕ ಶಕ್ತಿ"
+    },
+    {
+      "number": 41,
+      "kannada": "ಆನಂದ",
+      "english": "Ānanda",
+      "category": "ಆತ್ಮೋನ್ನತಿ / ಉನ್ನತ ಸ್ಥಿತಿ"
+    },
+    {
+      "number": 42,
+      "kannada": "ತೃಪ್ತಿ",
+      "english": "Tṛpti",
+      "category": "ಆತ್ಮೋನ್ನತಿ / ಉನ್ನತ ಸ್ಥಿತಿ"
+    },
+    {
+      "number": 43,
+      "kannada": "ಆತ್ಮಜ್ಞಾನ",
+      "english": "Ātma-jñāna",
+      "category": "ಆತ್ಮೋನ್ನತಿ / ಉನ್ನತ ಸ್ಥಿತಿ"
+    },
+    {
+      "number": 44,
+      "kannada": "ಶಿವಯೋಗ",
+      "english": "Shivayoga",
+      "category": "ಆತ್ಮೋನ್ನತಿ / ಉನ್ನತ ಸ್ಥಿತಿ"
+    },
+    {
+      "number": 45,
+      "kannada": "ಐಕ್ಯ",
+      "english": "Aikya",
+      "category": "ಆತ್ಮೋನ್ನತಿ / ಉನ್ನತ ಸ್ಥಿತಿ"
+    },
+    {
+      "number": 46,
+      "kannada": "ನಿರ್ವಿಕಲ್ಪ",
+      "english": "Nirvikalpa",
+      "category": "ಆತ್ಮೋನ್ನತಿ / ಉನ್ನತ ಸ್ಥಿತಿ"
+    },
+    {
+      "number": 47,
+      "kannada": "ಸಹಜ",
+      "english": "Sahaja",
+      "category": "ಆತ್ಮೋನ್ನತಿ / ಉನ್ನತ ಸ್ಥಿತಿ"
+    },
+    {
+      "number": 48,
+      "kannada": "ಚೈತನ್ಯ",
+      "english": "Chaitanya",
+      "category": "ಆತ್ಮೋನ್ನತಿ / ಉನ್ನತ ಸ್ಥಿತಿ"
+    },
+    {
+      "number": 49,
+      "kannada": "ಜ್ಞಾನಕಾಯಕ",
+      "english": "Jñāna-Kāyaka",
+      "category": "ಸಮಾಪ್ತಿ / ಅನುಭವ ಜೀವನ"
+    },
+    {
+      "number": 50,
+      "kannada": "ಭಕ್ತಿಜ್ಞಾನ",
+      "english": "Bhakti-Jñāna",
+      "category": "ಸಮಾಪ್ತಿ / ಅನುಭವ ಜೀವನ"
+    },
+    {
+      "number": 51,
+      "kannada": "ಅನುಭವ",
+      "english": "Anubhava",
+      "category": "ಸಮಾಪ್ತಿ / ಅನುಭವ ಜೀವನ"
+    },
+    {
+      "number": 52,
+      "kannada": "ಲಿಂಗೈಕ್ಯ",
+      "english": "Linga-Aikya",
+      "category": "ಸಮಾಪ್ತಿ / ಅನುಭವ ಜೀವನ"
+    },
+    {
+      "number": 53,
+      "kannada": "ಪೂರ್ಣತೆ",
+      "english": "Poornate",
+      "category": "ಸಮಾಪ್ತಿ / ಅನುಭವ ಜೀವನ"
+    }
+  ]
+}

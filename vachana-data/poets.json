@@ -1,0 +1,14 @@
+{
+  "poets": {
+    "Basavanna": {
+      "name": "Basavanna",
+      "image": "images/Basavanna.jpg",
+      "subtitle": "12th-century social reformer, philosopher, and statesman. Founder of the Lingayat movement and master of the vachana tradition."
+    },
+    "Akkamahadevi": {
+      "name": "Akkamahadevi",
+      "image": "images/Akkamahadevi.jpg",
+      "subtitle": "12th-century mystic saint and devotional poet. Known for her passionate love poetry and radical spiritual independence."
+    }
+  }
+}
