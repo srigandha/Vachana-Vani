@@ -46,9 +46,9 @@
     },
    
   {
-    "weekNumber": 1,
+    "weekNumber": 18,
     "vachankaraName": "Basavanna",
-    "reference": "Provided raw Kannada text",
+    "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=21627&poet=137",
     "vachanaLines": [
       "ಅಯ್ಯಾ, ನೀನು ನಿರಾಕಾರವಾಗಿರ್ದಲ್ಲಿ",
       "ನಾನು ಜ್ಞಾನವೆಂಬ ವಾಹನವಾಗಿರ್ದೆ, ಕಾಣಾ.",
@@ -116,5 +116,295 @@
       }
     ]
   },
+    
+    {
+  "weekNumber": 19,
+  "vachankaraName": "Basavanna",
+  "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=21625&poet=137",
+  "vachanaLines": [
+    "ಉದಕದೊಳಗೆ ಬಯ್ಚಿಟ್ಟ ಬಯ್ಕೆಯ ಕಿಚ್ಚಿನಂತಿದ್ದಿತ್ತು,",
+    "ಸಸಿಯೊಳಗಣ ರಸದ ರುಚಿಯಂತಿದ್ದಿತ್ತು,",
+    "ನೆನೆಯೊಳಗಣ ಪರಿಮಳದಂತಿದ್ದಿತ್ತು, ಕೂಡಲಸಂಗಮದೇವಾ,",
+    "ಕನ್ಯಯ ಸ್ನೇಹದಂತಿದ್ದಿತ್ತು."
+  ],
+  "meanings": [
+    {
+      "kannada": "ಉದಕದೊಳಗೆ ಬಯ್ಚಿಟ್ಟ ಬಯ್ಕೆಯ ಕಿಚ್ಚಿನಂತಿದ್ದಿತ್ತು,",
+      "transliteration": "Udakadolage baychitta baykeya kichchinantiddittu,",
+      "english": "It was like a hidden fire of desire submerged within water."
+    },
+    {
+      "kannada": "ಸಸಿಯೊಳಗಣ ರಸದ ರುಚಿಯಂತಿದ್ದಿತ್ತು,",
+      "transliteration": "Sasiyolagana rasada ruchiyantiddittu,",
+      "english": "It was like the subtle taste of sap within a plant."
+    },
+    {
+      "kannada": "ನೆನೆಯೊಳಗಣ ಪರಿಮಳದಂತಿದ್ದಿತ್ತು, ಕೂಡಲಸಂಗಮದೇವಾ,",
+      "transliteration": "Neneyolagana parimaladantiddittu, Koodala Sangamadeva,",
+      "english": "It was like the fragrance hidden within thought, O Kudala Sangama Deva."
+    },
+    {
+      "kannada": "ಕನ್ಯಯ ಸ್ನೇಹದಂತಿದ್ದಿತ್ತು.",
+      "transliteration": "Kanyaya snehadantiddittu.",
+      "english": "It was like the pure love of a maiden."
+    }
+  ],
+  "contextCards": [
+    {
+      "text": "The Divine presence is subtle and hidden, like fire in water or fragrance in thought—felt inwardly rather than seen outwardly."
+    },
+    {
+      "text": "True spiritual experience is pure, intimate, and delicate—comparable to innocent love and inner essence."
+    }
+  ]
+},
+    {
+  "weekNumber": 20,
+  "vachankaraName": "Basavanna",
+  "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=21639&poet=137",
+  "vachanaLines": [
+    "ಜನಿತಕ್ಕೆ ತಾಯಾಗಿ ಹೆತ್ತಳು ಮಾಯೆ;",
+    "ಮೋಹಕ್ಕೆ ಮಗಳಾಗಿ ಹುಟ್ಟಿದಳು ಮಾಯೆ,",
+    "ಕೂಟಕ್ಕೆ ಸ್ತ್ರೀಯಾಗಿ ಕೂಡಿದಳು ಮಾಯೆ,",
+    "ಇದಾವಾವ ಪರಿಯಲ್ಲಿ ಕಾಡಿತ್ತು ಮಾಯೆ!",
+    "ಈ ಮಾಯೆಯ ಕಳೆವೊಡೆ ಎನ್ನಳವಲ್ಲ;",
+    "ನೀವೆ ಬಲ್ಲಿರಿ ಕೂಡಲಸಂಗಮದೇವಾ."
+  ],
+  "meanings": [
+    {
+      "kannada": "ಜನಿತಕ್ಕೆ ತಾಯಾಗಿ ಹೆತ್ತಳು ಮಾಯೆ;",
+      "transliteration": "Janitakke tāyāgi hettalu māye;",
+      "english": "Maya became the mother and gave birth to creation."
+    },
+    {
+      "kannada": "ಮೋಹಕ್ಕೆ ಮಗಳಾಗಿ ಹುಟ್ಟಿದಳು ಮಾಯೆ,",
+      "transliteration": "Mohakke magaḷāgi huṭṭidalu māye,",
+      "english": "Maya was born again as the daughter of attachment (delusion)."
+    },
+    {
+      "kannada": "ಕೂಟಕ್ಕೆ ಸ್ತ್ರೀಯಾಗಿ ಕೂಡಿದಳು ಮಾಯೆ,",
+      "transliteration": "Kūṭakke striyāgi kūḍidalu māye,",
+      "english": "Maya joined as a woman in worldly relationships and gatherings."
+    },
+    {
+      "kannada": "ಇದಾವಾವ ಪರಿಯಲ್ಲಿ ಕಾಡಿತ್ತು ಮಾಯೆ!",
+      "transliteration": "Idāvāva pariyalli kāḍittu māye!",
+      "english": "In how many ways has this Maya troubled and entangled us!"
+    },
+    {
+      "kannada": "ಈ ಮಾಯೆಯ ಕಳೆವೊಡೆ ಎನ್ನಳವಲ್ಲ;",
+      "transliteration": "Ī māyeya kaḷevoḍe ennaḷavalla;",
+      "english": "To overcome and remove this Maya is not within my capacity."
+    },
+    {
+      "kannada": "ನೀವೆ ಬಲ್ಲಿರಿ ಕೂಡಲಸಂಗಮದೇವಾ.",
+      "transliteration": "Nīve balliri Kūḍala Saṅgamadēvā.",
+      "english": "Only you know the way, O Kudala Sangama Deva."
+    }
+  ],
+  "contextCards": [
+    {
+      "text": "Maya (illusion) manifests in many forms—creation, attachment, and relationships—constantly binding the soul to worldly life."
+    },
+    {
+      "text": "True liberation from illusion is not achieved by individual effort alone, but through surrender to the Divine."
+    }
+  ]
+},
+    {
+  "weekNumber": 21,
+  "vachankaraName": "Akkamahadevi",
+  "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=1614&poet=1",
+  "vachanaLines": [
+    "ಅಂಗದಲ್ಲಿ ಆಚಾರವ ತೋರಿದ;",
+    "ಆ ಆಚಾರವೇ ಲಿಂಗವೆಂದರುಹಿದ.",
+    "ಪ್ರಾಣದಲ್ಲಿ ಅರಿವ ನೆಲೆಗೊಳಿಸಿದ;",
+    "ಆ ಅರಿವೆ ಜಂಗಮವೆಂದು ತೋರಿದ.",
+    "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನಾ,",
+    "ಹೆತ್ತ ತಂದೆ ಸಂಗನಬಸವಣ್ಣನು",
+    "ಎನಗೀ ಕ್ರಮವನರುಹಿದನಯ್ಯ."
+  ],
+  "meanings": [
+    {
+      "kannada": "ಅಂಗದಲ್ಲಿ ಆಚಾರವ ತೋರಿದ;",
+      "transliteration": "Aṅgadalli āchārava tōrida;",
+      "english": "He showed righteous conduct through the body."
+    },
+    {
+      "kannada": "ಆ ಆಚಾರವೇ ಲಿಂಗವೆಂದರುಹಿದ.",
+      "transliteration": "Ā āchāravē liṅgavendaruhida.",
+      "english": "He taught that such conduct itself is the Linga (divine principle)."
+    },
+    {
+      "kannada": "ಪ್ರಾಣದಲ್ಲಿ ಅರಿವ ನೆಲೆಗೊಳಿಸಿದ;",
+      "transliteration": "Prāṇadalli ariva nelegolisida;",
+      "english": "He established awareness within the life-breath."
+    },
+    {
+      "kannada": "ಆ ಅರಿವೆ ಜಂಗಮವೆಂದು ತೋರಿದ.",
+      "transliteration": "Ā arivē jaṅgamavendu tōrida.",
+      "english": "He showed that this awareness itself is the Jangama (living divinity)."
+    },
+    {
+      "kannada": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನಾ,",
+      "transliteration": "Chennamallikārjunā,",
+      "english": "O Chennamallikarjuna,"
+    },
+    {
+      "kannada": "ಹೆತ್ತ ತಂದೆ ಸಂಗನಬಸವಣ್ಣನು",
+      "transliteration": "Hetta tande Saṅganabasavaṇṇanu",
+      "english": "My nurturing father, Sangana Basavanna,"
+    },
+    {
+      "kannada": "ಎನಗೀ ಕ್ರಮವನರುಹಿದನಯ್ಯ.",
+      "transliteration": "Enagī kramavanaruhidanayya.",
+      "english": "Has revealed this spiritual path to me."
+    }
+  ],
+  "contextCards": [
+    {
+      "text": "True spirituality is not external ritual but lived conduct (achara) and inner awareness—these themselves become the Linga and Jangama."
+    },
+    {
+      "text": "The Guru plays a vital role in revealing the inner path, guiding the seeker from outward practice to inner realization of the Divine."
+    }
+  ]
+},
+    {
+  "weekNumber": 22,
+  "vachankaraName": "Akkamahadevi",
+  "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=1615&poet=1",
+  "vachanaLines": [
+    "ಅಂಗದ ಭಂಗವ ಲಿಂಗಮುಖದಿಂದ ಗೆಲಿದೆ.",
+    "ಮನದ ಭಂಗವ ಅರುಹಿನ ಮುಖದಿಂದ ಗೆಲಿದೆ.",
+    "ಜೀವದ ಭಂಗವ ಶಿವಾನುಭಾವದಿಂದ ಗೆಲಿದೆ.",
+    "ಕರಣದ ಕತ್ತಲೆಯ ಬೆಳಗನುಟ್ಟು ಗೆಲಿದೆ.",
+    "ಜವ್ವನದ ಹೊರಮಿಂಚಿನಲ್ಲಿ ನಿಮ್ಮ ಕಣ್ಣಿಂಗೆ ತೋರುವ",
+    "ಕಾಮನ ಸುಟ್ಟುರುಹಿದ ಭಸ್ಮವ ನೋಡಯ್ಯಾ",
+    "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ,",
+    "ಕಾಮನ ಕೊಂದು ಮನಸಿಜನಾಗುಳುಹಿದಡೆ",
+    "ಮನಸಿಜನ ತಲೆಯ ಬರಹವ ತೊಡೆದೆನು."
+  ],
+  "meanings": [
+    {
+      "kannada": "ಅಂಗದ ಭಂಗವ ಲಿಂಗಮುಖದಿಂದ ಗೆಲಿದೆ.",
+      "transliteration": "Aṅgada bhaṅgava liṅgamukhadinda gelide.",
+      "english": "The disturbances of the body were overcome through the vision of the Linga."
+    },
+    {
+      "kannada": "ಮನದ ಭಂಗವ ಅರುಹಿನ ಮುಖದಿಂದ ಗೆಲಿದೆ.",
+      "transliteration": "Manada bhaṅgava aruhina mukhadinda gelide.",
+      "english": "The disturbances of the mind were conquered through true understanding (inner realization)."
+    },
+    {
+      "kannada": "ಜೀವದ ಭಂಗವ ಶಿವಾನುಭಾವದಿಂದ ಗೆಲಿದೆ.",
+      "transliteration": "Jīvda bhaṅgava śivānubhāvadinda gelide.",
+      "english": "The unrest of the soul was overcome through the experience of Shiva."
+    },
+    {
+      "kannada": "ಕರಣದ ಕತ್ತಲೆಯ ಬೆಳಗನುಟ್ಟು ಗೆಲಿದೆ.",
+      "transliteration": "Karaṇada kattaleya beḷaganuṭṭu gelide.",
+      "english": "The darkness of the senses was dispelled by the light of awareness."
+    },
+    {
+      "kannada": "ಜವ್ವನದ ಹೊರಮಿಂಚಿನಲ್ಲಿ ನಿಮ್ಮ ಕಣ್ಣಿಂಗೆ ತೋರುವ",
+      "transliteration": "Javvanada horaminchinalli nimma kaṇṇinge tōruva",
+      "english": "In the outward glitter of youth that appears to your eyes,"
+    },
+    {
+      "kannada": "ಕಾಮನ ಸುಟ್ಟುರುಹಿದ ಭಸ್ಮವ ನೋಡಯ್ಯಾ",
+      "transliteration": "Kāmana suṭṭuruhida bhasmava nōḍayyā",
+      "english": "See instead the ash of desire that has been burnt away."
+    },
+    {
+      "kannada": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ,",
+      "transliteration": "Chennamallikārjuna,",
+      "english": "O Chennamallikarjuna,"
+    },
+    {
+      "kannada": "ಕಾಮನ ಕೊಂದು ಮನಸಿಜನಾಗುಳುಹಿದಡೆ",
+      "transliteration": "Kāmana kondu manasijanāguḷuhidade",
+      "english": "Having slain desire and become pure in mind,"
+    },
+    {
+      "kannada": "ಮನಸಿಜನ ತಲೆಯ ಬರಹವ ತೊಡೆದೆನು.",
+      "transliteration": "Manasijana taleya barahava toḍedenu.",
+      "english": "I have erased the fate written upon the head of the mind-born (desire-bound self)."
+    }
+  ],
+  "contextCards": [
+    {
+      "text": "Spiritual growth involves overcoming the disturbances of body, mind, and soul through devotion, awareness, and direct experience of the Divine."
+    },
+    {
+      "text": "True liberation comes from burning away desire (kāma), seeing beyond outward illusions like youth and beauty, and awakening to inner purity."
+    }
+  ]
+},
+    {
+  "weekNumber": 23,
+  "vachankaraName": "Akkamahadevi",
+  "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=1622&poet=1",
+  "vachanaLines": [
+    "ಅಂದೂ ನೀನೆ, ಇಂದೂ ನೀನೆ,",
+    "ಎಂದೂ ನೀನೆ, ಕೇಳಾ ತಂದೆ.",
+    "ನಿನ್ನ ಬೆಂಬಳಿವಿಡಿದ ಹಳೆಮಗಳಾನಯ್ಯ",
+    "ಅಂದೂ ಇಂದೂ ಎಂದೂ ನಿನ್ನ ನಂಬಿದ",
+    "ಒಲವಿನ ಶಿಶು ನಾನಯ್ಯ.",
+    "ಒಂದಲ್ಲದೆ ಎರಡರಿಯೆನಯ್ಯಾ.",
+    "ಎನ್ನ ತಂದೆ ಕೇಳಾ, ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನಾ",
+    "ನಿಮ್ಮ ಎಂಜಲನುಂಬ ಹಳೆಯವಳಾನಯ್ಯಾ."
+  ],
+  "meanings": [
+    {
+      "kannada": "ಅಂದೂ ನೀನೆ, ಇಂದೂ ನೀನೆ,",
+      "transliteration": "Andū nīne, indū nīne,",
+      "english": "You were then, you are now,"
+    },
+    {
+      "kannada": "ಎಂದೂ ನೀನೆ, ಕೇಳಾ ತಂದೆ.",
+      "transliteration": "Endū nīne, kēḷā tande.",
+      "english": "You are always the same, O unseen father."
+    },
+    {
+      "kannada": "ನಿನ್ನ ಬೆಂಬಳಿವಿಡಿದ ಹಳೆಮಗಳಾನಯ್ಯ",
+      "transliteration": "Ninna bembaḷiviḍida haḷe magaḷānayya",
+      "english": "I am your old daughter who has long depended on your support."
+    },
+    {
+      "kannada": "ಅಂದೂ ಇಂದೂ ಎಂದೂ ನಿನ್ನ ನಂಬಿದ",
+      "transliteration": "Andū indū endū ninna nambida",
+      "english": "From then, now, and always, I have trusted only you."
+    },
+    {
+      "kannada": "ಒಲವಿನ ಶಿಶು ನಾನಯ್ಯ.",
+      "transliteration": "Olavina śiśu nānayya.",
+      "english": "I am your child of love."
+    },
+    {
+      "kannada": "ಒಂದಲ್ಲದೆ ಎರಡರಿಯೆನಯ್ಯಾ.",
+      "transliteration": "Ondallade eraḍariyenayyā.",
+      "english": "I know not duality; I know only the One."
+    },
+    {
+      "kannada": "ಎನ್ನ ತಂದೆ ಕೇಳಾ, ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನಾ",
+      "transliteration": "Enna tande kēḷā, Chennamallikārjunā",
+      "english": "Listen, my father, O Chennamallikarjuna,"
+    },
+    {
+      "kannada": "ನಿಮ್ಮ ಎಂಜಲನುಂಬ ಹಳೆಯವಳಾನಯ್ಯಾ.",
+      "transliteration": "Nimma enjal anumba haḷeyavaḷānayyā.",
+      "english": "I am the one who lives by accepting even your leavings (grace), your humble devotee."
+    }
+  ],
+  "contextCards": [
+    {
+      "text": "The vachana expresses unwavering devotion and surrender, seeing the Divine as the only constant across time—past, present, and future."
+    },
+    {
+      "text": "It reflects non-duality (advaita), where the devotee sees no separation between self and the Divine, living in complete trust and humility."
+    }
+  ]
+}
   ]
 }
