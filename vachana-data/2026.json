@@ -43,6 +43,78 @@
           "text": "Basavanna rejects fatalism. Past births do not bind us — righteous living brings its own fruit, here and now."
         }
       ]
-    }
+    },
+   
+  {
+    "weekNumber": 1,
+    "vachankaraName": "Basavanna",
+    "reference": "Provided raw Kannada text",
+    "vachanaLines": [
+      "ಅಯ್ಯಾ, ನೀನು ನಿರಾಕಾರವಾಗಿರ್ದಲ್ಲಿ",
+      "ನಾನು ಜ್ಞಾನವೆಂಬ ವಾಹನವಾಗಿರ್ದೆ, ಕಾಣಾ.",
+      "ಅಯ್ಯಾ, ನೀನು ನಾಟ್ಯಕ್ಕೆ ನಿಂದಲ್ಲಿ",
+      "ನಾನು ಚೈತನ್ಯವೆಂಬ ವಾಹನವಾಗಿರ್ದೆ, ಕಾಣಾ.",
+      "ಅಯ್ಯಾ, ನೀನು ಆಕಾರವಾಗಿರ್ದಲ್ಲಿ",
+      "ನಾನು ವೃಷಭನೆಂಬ ವಾಹನವಾಗಿರ್ದೆ, ಕಾಣಾ.",
+      "ಅಯ್ಯಾ, ನೀನೆನ್ನ ಭವವ ಕೊಂದಹೆನೆಂದು ಜಂಗಮಲಾಂಛನನಾಗಿ ಬಂದಲ್ಲಿ,",
+      "ನಾನು ಭಕ್ತನೆಂಬ ವಾಹನವಾಗಿರ್ದೆ, ಕಾಣಾ,",
+      "ಕೂಡಲ ಸಂಗಮದೇವಾ."
+    ],
+    "meanings": [
+      {
+        "kannada": "ಅಯ್ಯಾ, ನೀನು ನಿರಾಕಾರವಾಗಿರ್ದಲ್ಲಿ",
+        "transliteration": "ayyā, nīnu nirākāra-vāgirdalli",
+        "english": "O Lord, when You exist in formless state"
+      },
+      {
+        "kannada": "ನಾನು ಜ್ಞಾನವೆಂಬ ವಾಹನವಾಗಿರ್ದೆ, ಕಾಣಾ.",
+        "transliteration": "nānu jñānavemba vāhana-vāgirdē, kāṇā",
+        "english": "I become the vehicle of knowledge, behold."
+      },
+      {
+        "kannada": "ಅಯ್ಯಾ, ನೀನು ನಾಟ್ಯಕ್ಕೆ ನಿಂದಲ್ಲಿ",
+        "transliteration": "ayyā, nīnu nāṭyakke nindalli",
+        "english": "O Lord, when You stand in divine dance"
+      },
+      {
+        "kannada": "ನಾನು ಚೈತನ್ಯವೆಂಬ ವಾಹನವಾಗಿರ್ದೆ, ಕಾಣಾ.",
+        "transliteration": "nānu chaitanyavemba vāhana-vāgirdē, kāṇā",
+        "english": "I become the vehicle of consciousness, behold."
+      },
+      {
+        "kannada": "ಅಯ್ಯಾ, ನೀನು ಆಕಾರವಾಗಿರ್ದಲ್ಲಿ",
+        "transliteration": "ayyā, nīnu ākāra-vāgirdalli",
+        "english": "O Lord, when You assume form"
+      },
+      {
+        "kannada": "ನಾನು ವೃಷಭನೆಂಬ ವಾಹನವಾಗಿರ್ದೆ, ಕಾಣಾ.",
+        "transliteration": "nānu vṛṣabhavemba vāhana-vāgirdē, kāṇā",
+        "english": "I become the vehicle of the sacred bull, behold."
+      },
+      {
+        "kannada": "ಅಯ್ಯಾ, ನೀನೆನ್ನ ಭವವ ಕೊಂದಹೆನೆಂದು ಜಂಗಮಲಾಂಛನನಾಗಿ ಬಂದಲ್ಲಿ,",
+        "transliteration": "ayyā, nīnennu bhavava kondahenendu jaṅgamalāñchananāgi bandalli",
+        "english": "O Lord, when You come as the mark of a wandering divine saint who has destroyed my worldly bondage"
+      },
+      {
+        "kannada": "ನಾನು ಭಕ್ತನೆಂಬ ವಾಹನವಾಗಿರ್ದೆ, ಕಾಣಾ,",
+        "transliteration": "nānu bhaktanemba vāhana-vāgirdē, kāṇā",
+        "english": "I become the vehicle of devotion, behold."
+      },
+      {
+        "kannada": "ಕೂಡಲ ಸಂಗಮದೇವಾ.",
+        "transliteration": "kūḍala saṅgama dēvā",
+        "english": "O Lord of Kudalasangama"
+      }
+    ],
+    "contextCards": [
+      {
+        "text": "The divine manifests in many forms, and the seeker responds through different inner states like knowledge, consciousness, and devotion."
+      },
+      {
+        "text": "True spirituality is complete surrender, where the devotee becomes a vehicle for the divine presence in every form."
+      }
+    ]
+  },
   ]
 }
