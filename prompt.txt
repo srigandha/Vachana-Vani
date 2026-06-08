@@ -3,6 +3,11 @@ Extract the vachana from either:
 1. A URL that contains a Kannada vachana (sacred poem) by a famous Vachanakara
 2. Or the raw Kannada vachana text itself
 
+**Important Constraint:**
+
+* If the vachana contains **more than 7 lines**, do **NOT** proceed.
+* Instead, ask the prompter to **consolidate or merge lines** so the total is **7 or fewer lines** before continuing.
+
 If using a URL, replace the placeholder below with the URL:
 
 [PASTE YOUR URL LINE HERE]
@@ -12,11 +17,12 @@ If using raw vachana text, replace the placeholder below with the full Kannada l
 [PASTE YOUR KANNADA VACHANA LINES HERE]
 
 Please provide:
+
 1. Line-by-line transliteration (Kannada to Roman script using ITRANS or standard Kannada romanization)
 2. Line-by-line English translation/meaning
 3. Two context cards with spiritual themes
 
-Return the response in **EXACTLY** this JSON format (no markdown, just raw JSON):
+Return the response in **EXACTLY** this JSON format wrapped inside a code block.:
 
 {
   "weekNumber": <fill>,

@@ -44,8 +44,8 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, () => {
   console.log(`\n✅ Server running at http://localhost:${PORT}/`);
   console.log(`\n📄 Test URLs:`);
-  console.log(`   - http://localhost:${PORT}/Template.html?weekNumber=1&year=2026`);
-  console.log(`   - http://localhost:${PORT}/Template.html?weekNumber=2&year=2026`);
+  console.log(`   - http://localhost:${PORT}/Template.html?weekNumber=22&year=2026`);
+  console.log(`   - http://localhost:${PORT}/Template.html?weekNumber=23&year=2026`);
   console.log(`\n📁 Data files:`);
   console.log(`   - vachana-data/poets.json`);
   console.log(`   - vachana-data/2026.json`);
