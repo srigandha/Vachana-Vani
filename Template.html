@@ -436,7 +436,7 @@
       width: 130px;
       max-width: 100%;
       opacity: 0.75;
-      margin-top: 14px;
+      margin-top: 4px;
       pointer-events: none;
       z-index: 0;
     }
@@ -695,7 +695,9 @@
         const weekNames = await getWeekNames();
         const currentWeek = weekNames.find(w => w.number === weekNumber);
         const weekNameText = currentWeek ? currentWeek.kannada : `Week ${weekNumber}`;
+        const weekNameEnglish = currentWeek ? currentWeek.english : `Week${weekNumber}`;
 
+        document.title = `VachanaVaani_${year}_Week${weekNumber}_${weekNameEnglish}`;
         document.querySelector('.footer-meta').textContent = `${year} · ${weekNameText}`;
 
       } catch (error) {
