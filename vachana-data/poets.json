@@ -14,6 +14,11 @@
       "name": "Allamaprabhu",
       "image": "images/Allamaprabhu.jpg",
       "subtitle": "12th-century mystic-saint and vachana poet known for paradoxical teaching and spiritual insight."
+    },
+    "Siddarama": {
+      "name": "Sharana Siddarama",
+      "image": "images/Siddarama.jpg",
+      "subtitle": "12th-century Sharana saint, philosopher, and social reformer. Known for his teachings on selfless service, inner transformation, and devotion through Kayaka and Dasoha."
     }
   }
 }

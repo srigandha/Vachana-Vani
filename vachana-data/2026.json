@@ -497,140 +497,287 @@
         }
       ]
     },
+    {
+      "weekNumber": 27,
+      "vachankaraName": "Allamaprabhu",
+      "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=10&poet=17",
+      "vachanaLines": [
+        "ಎನ್ನ ನಾನರಿಯದಂದು ಮುನ್ನ ನೀನೇನಾಗಿರ್ದೆ ಹೇಳಾ?",
+        "ಮುನ್ನ [ನೀ] ಬಾಯ ಮುಚ್ಚಿಕೊಂಡಿರ್ದೆ ಎಂಬುದ,",
+        "ನಾ ನಿನ್ನ ಕಣ್ಣಿಂದ ಕಂಡೆನು,",
+        "ಎನ್ನ ನಾನರಿದ ಬಳಿಕ ಇನ್ನು ನೀ ಬಾಯಿದೆರೆದು ಮಾತನಾಡಿದಡೆ",
+        "ಅದನೆನ್ನ ಕಣ್ಣಿಂದ ಕಂಡು ನಾಚಿದೆ ನೋಡಾ.",
+        "ಎನ್ನ ಕಾಬ ನಿನಗೆ, ನಿನ್ನ ಕಾಬ ಎನಗೆ, ಸಂಬಂಧ ಒಂದೇ ನೋಡಾ!",
+        "ಗುಹೇಶ್ವರಾ, ನಿನ್ನ ಬೆಡಗಿನ ಬಿನ್ನಾಣವ ನಾನರಿದೆ ನೋಡಾ."
+      ],
+      "meanings": [
         {
-  "weekNumber": 29,
-  "vachankaraName": "Basavanna",
-  "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=21630&poet=137",
-  "vachanaLines": [
-    "ಕರಿ ಘನ: ಅಂಕುಶ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
-    "ಗಿರಿ ಘನ: ವಜ್ರ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
-    "ತಮಂಧ ಘನ: ಜ್ಯೋತಿ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
-    "ಮರಹು ಘನ: ನಿಮ್ಮ ನೆನೆವ ಮನ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ, ಕೂಡಲ ಸಂಗಮದೇವಾ."
-  ],
-  "meanings": [
-    {
-      "kannada": "ಕರಿ ಘನ: ಅಂಕುಶ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
-      "transliteration": "kari ghana: aṅkuśa kiride'nna bahude? bāradayyā.",
-      "english": "Can one call the elephant-goad insignificant merely because it is small? Certainly not."
+          "kannada": "ಎನ್ನ ನಾನರಿಯದಂದು ಮುನ್ನ ನೀನೇನಾಗಿರ್ದೆ ಹೇಳಾ?",
+          "transliteration": "enna nānariyadandu munna nīnēnāgirdē hēḷā?",
+          "english": "Before I knew myself, tell me, what were You?"
+        },
+        {
+          "kannada": "ಮುನ್ನ [ನೀ] ಬಾಯ ಮುಚ್ಚಿಕೊಂಡಿರ್ದೆ ಎಂಬುದ,",
+          "transliteration": "munna [nī] bāya muccikoṇḍirdē embuda,",
+          "english": "I thought that before this, You had remained silent."
+        },
+        {
+          "kannada": "ನಾ ನಿನ್ನ ಕಣ್ಣಿಂದ ಕಂಡೆನು,",
+          "transliteration": "nā ninna kaṇṇinda kaṇḍenu,",
+          "english": "I perceived this through Your own eyes."
+        },
+        {
+          "kannada": "ಎನ್ನ ನಾನರಿದ ಬಳಿಕ ಇನ್ನು ನೀ ಬಾಯಿದೆರೆದು ಮಾತನಾಡಿದಡೆ",
+          "transliteration": "enna nānarida balika innu nī bāyideredu mātanāḍidaḍe",
+          "english": "After I came to know myself, You opened Your mouth and spoke."
+        },
+        {
+          "kannada": "ಅದನೆನ್ನ ಕಣ್ಣಿಂದ ಕಂಡು ನಾಚಿದೆ ನೋಡಾ.",
+          "transliteration": "adanenna kaṇṇinda kaṇḍu nācide nōḍā.",
+          "english": "Seeing this with my own eyes, I stood in awe and humility."
+        },
+        {
+          "kannada": "ಎನ್ನ ಕಾಬ ನಿನಗೆ, ನಿನ್ನ ಕಾಬ ಎನಗೆ, ಸಂಬಂಧ ಒಂದೇ ನೋಡಾ!",
+          "transliteration": "enna kāba ninage, ninna kāba enage, sambandha ondē nōḍā!",
+          "english": "My protection is Yours, and Your protection is mine—the relationship between us is one and the same."
+        },
+        {
+          "kannada": "ಗುಹೇಶ್ವರಾ, ನಿನ್ನ ಬೆಡಗಿನ ಬಿನ್ನಾಣವ ನಾನರಿದೆ ನೋಡಾ.",
+          "transliteration": "guhēśvarā, ninna beḍagina binnāṇava nānaride nōḍā.",
+          "english": "O Guheshwara, I have realized the wondrous mystery of Your divine play."
+        }
+      ],
+      "contextCards": [
+        {
+          "text": "Allama Prabhu teaches that self-realization and God-realization are inseparable; when one truly knows oneself, the Divine begins to reveal itself."
+        },
+        {
+          "text": "The vachana expresses the non-dual relationship between the devotee and the Divine, where there is ultimately no separation between the two."
+        }
+      ]
     },
     {
-      "kannada": "ಗಿರಿ ಘನ: ವಜ್ರ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
-      "transliteration": "giri ghana: vajra kiride'nna bahude? bāradayyā.",
-      "english": "Can the diamond be considered insignificant because of its small size? Certainly not."
+      "weekNumber": 28,
+      "vachankaraName": "Allamaprabhu",
+      "reference": "Provided Kannada Vachana Text",
+      "vachanaLines": [
+        "ಅರಸಿಲ್ಲದ ದೇಶಕ್ಕೆ ಒಡೆಯರು ಹಲವರು,",
+        "ಕೋಟೆಯ ಕಟ್ಟಿದರೇನು? ಕೊತ್ತಳವ ಹೂಡಿದರೇನು?",
+        "ಒಳಗಣ ಕಳ್ಳನ ಹಿಡಿಯಲರಿಯದೆ,",
+        "ಹೊರಗಣ ವೈರಿಯ ಗೆಲುವೆನೆಂಬ ಮಾತು",
+        "ಒಡಲ ಒಳಗಣ ಕಿಚ್ಚು ತಾಗಿದಂತೆ ಕಾಣಾ ಗುಹೇಶ್ವರ."
+      ],
+      "meanings": [
+        {
+          "kannada": "ಅರಸಿಲ್ಲದ ದೇಶಕ್ಕೆ ಒಡೆಯರು ಹಲವರು,",
+          "transliteration": "arasillada dēśakke oḍeyaru halavaru,",
+          "english": "In a kingdom without a true king, many claim to be rulers."
+        },
+        {
+          "kannada": "ಕೋಟೆಯ ಕಟ್ಟಿದರೇನು? ಕೊತ್ತಳವ ಹೂಡಿದರೇನು?",
+          "transliteration": "kōṭeya kaṭṭidarēnu? kottaḷava hūḍidarēnu?",
+          "english": "What is the use of building forts and raising strong defenses?"
+        },
+        {
+          "kannada": "ಒಳಗಣ ಕಳ್ಳನ ಹಿಡಿಯಲರಿಯದೆ,",
+          "transliteration": "oḷagaṇa kaḷḷana hiḍiyalariyade,",
+          "english": "If one cannot catch the thief within,"
+        },
+        {
+          "kannada": "ಹೊರಗಣ ವೈರಿಯ ಗೆಲುವೆನೆಂಬ ಮಾತು",
+          "transliteration": "horagaṇa vairiya geluvenemba mātu",
+          "english": "How can one speak of defeating the enemy outside?"
+        },
+        {
+          "kannada": "ಒಡಲ ಒಳಗಣ ಕಿಚ್ಚು ತಾಗಿದಂತೆ ಕಾಣಾ ಗುಹೇಶ್ವರ.",
+          "transliteration": "oḍala oḷagaṇa kiccu tāgidante kāṇā guhēśvara.",
+          "english": "O Guheshwara, it is like a fire burning within one's own body."
+        }
+      ],
+      "contextCards": [
+        {
+          "text": "Allama Prabhu teaches that conquering one's inner enemies—ego, desire, anger, and ignorance—is far more important than overcoming external challenges."
+        },
+        {
+          "text": "The vachana reminds us that without self-mastery, external achievements and defenses are meaningless, for the greatest battle is within."
+        }
+      ]
     },
     {
-      "kannada": "ತಮಂಧ ಘನ: ಜ್ಯೋತಿ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
-      "transliteration": "tamandha ghana: jyōti kiride'nna bahude? bāradayyā.",
-      "english": "Can light be called insignificant because its flame is small? Certainly not."
+      "weekNumber": 29,
+      "vachankaraName": "Basavanna",
+      "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=21630&poet=137",
+      "vachanaLines": [
+        "ಕರಿ ಘನ: ಅಂಕುಶ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
+        "ಗಿರಿ ಘನ: ವಜ್ರ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
+        "ತಮಂಧ ಘನ: ಜ್ಯೋತಿ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
+        "ಮರಹು ಘನ: ನಿಮ್ಮ ನೆನೆವ ಮನ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ, ಕೂಡಲ ಸಂಗಮದೇವಾ."
+      ],
+      "meanings": [
+        {
+          "kannada": "ಕರಿ ಘನ: ಅಂಕುಶ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
+          "transliteration": "kari ghana: aṅkuśa kiride'nna bahude? bāradayyā.",
+          "english": "Can one call the elephant-goad insignificant merely because it is small? Certainly not."
+        },
+        {
+          "kannada": "ಗಿರಿ ಘನ: ವಜ್ರ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
+          "transliteration": "giri ghana: vajra kiride'nna bahude? bāradayyā.",
+          "english": "Can the diamond be considered insignificant because of its small size? Certainly not."
+        },
+        {
+          "kannada": "ತಮಂಧ ಘನ: ಜ್ಯೋತಿ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ.",
+          "transliteration": "tamandha ghana: jyōti kiride'nna bahude? bāradayyā.",
+          "english": "Can light be called insignificant because its flame is small? Certainly not."
+        },
+        {
+          "kannada": "ಮರಹು ಘನ: ನಿಮ್ಮ ನೆನೆವ ಮನ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ, ಕೂಡಲ ಸಂಗಮದೇವಾ.",
+          "transliteration": "marahu ghana: nimma neneva mana kiride'nna bahude? bāradayyā, Kūḍala Saṅgamadēvā.",
+          "english": "Likewise, O Kudalasangama Deva, can a mind filled with remembrance of You ever be considered insignificant? Never."
+        }
+      ],
+      "contextCards": [
+        {
+          "text": "Basavanna teaches that true worth is determined by inner power and purpose, not by outward size or appearance."
+        },
+        {
+          "text": "A heart constantly remembering God may appear small or ordinary, but it possesses immeasurable spiritual greatness."
+        }
+      ]
     },
     {
-      "kannada": "ಮರಹು ಘನ: ನಿಮ್ಮ ನೆನೆವ ಮನ ಕಿರಿದೆʼನ್ನ ಬಹುದೆ? ಬಾರದಯ್ಯಾ, ಕೂಡಲ ಸಂಗಮದೇವಾ.",
-      "transliteration": "marahu ghana: nimma neneva mana kiride'nna bahude? bāradayyā, Kūḍala Saṅgamadēvā.",
-      "english": "Likewise, O Kudalasangama Deva, can a mind filled with remembrance of You ever be considered insignificant? Never."
+      "weekNumber": 30,
+      "vachankaraName": "Akkamahadevi",
+      "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=1623&poet=1",
+      "vachanaLines": [
+        "ಅಕ್ಕ ಕೇಳಕ್ಕಾ, ನಾನೊಂದು ಕನಸ ಕಂಡೆ.",
+        "ಚಿಕ್ಕ ಚಿಕ್ಕ ಕೆಂಜೆಡೆಗಳ ಸುಲಿಪಲ್ಲ ಗೊರವನು ಬಂದೆನ್ನ ನೆರೆದ ನೋಡವ್ವಾ.",
+        "ಆತನನಪ್ಪಿಕೊಂಡು ತಳವೆಳಗಾದೆನು.",
+        "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನ ಕಂಡು ಕಣ್ಣಮುಚ್ಚಿ ತೆರೆದು ತಳವೆಳಗಾದೆನು."
+      ],
+      "meanings": [
+        {
+          "kannada": "ಅಕ್ಕ ಕೇಳಕ್ಕಾ, ನಾನೊಂದು ಕನಸ ಕಂಡೆ.",
+          "transliteration": "akka kēḷakkā, nānondu kanasa kaṇḍe.",
+          "english": "Sister, listen! I had a dream."
+        },
+        {
+          "kannada": "ಚಿಕ್ಕ ಚಿಕ್ಕ ಕೆಂಜೆಡೆಗಳ ಸುಲಿಪಲ್ಲ ಗೊರವನು ಬಂದೆನ್ನ ನೆರೆದ ನೋಡವ್ವಾ.",
+          "transliteration": "cikka cikka keñjeḍegaḷa sulipalla goravanu bandenna nereda nōḍavvā.",
+          "english": "A wandering ascetic with small reddish matted locks came close and stood before me."
+        },
+        {
+          "kannada": "ಆತನನಪ್ಪಿಕೊಂಡು ತಳವೆಳಗಾದೆನು.",
+          "transliteration": "ātanannappikoṇḍu taḷaveḷagādenu.",
+          "english": "I embraced Him and was filled with profound inner joy and fulfillment."
+        },
+        {
+          "kannada": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನ ಕಂಡು ಕಣ್ಣಮುಚ್ಚಿ ತೆರೆದು ತಳವೆಳಗಾದೆನು.",
+          "transliteration": "cennamallikārjunana kaṇḍu kaṇṇu mucci teredu taḷaveḷagādenu.",
+          "english": "Beholding Chennamallikarjuna, I closed and opened my eyes, becoming completely immersed in divine bliss."
+        }
+      ],
+      "contextCards": [
+        {
+          "text": "Akka Mahadevi describes a mystical dream in which she experiences a direct encounter with her Beloved Lord, Chennamallikarjuna."
+        },
+        {
+          "text": "The vachana symbolizes the soul's longing, union, and ultimate fulfillment through intimate realization of the Divine."
+        }
+      ]
+    },
+    {
+      "weekNumber": 31,
+      "vachankaraName": "Allamaprabhu",
+      "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=2&poet=17",
+      "vachanaLines": [
+        "ನೆಲದ ಮರೆಯ ನಿಧಾನದಂತೆ,",
+        "ಮುಗಿಲ ಮರೆಯಲಡಗಿದ ಮಿಂಚಿನಂತೆ,",
+        "ಬಯಲ ಮರೆಯಲಡಗಿದ ಮರೀಚಿಯಂತೆ.",
+        "ಶಬ್ದದ ಮರೆಯ ನಿಶ್ಯಬ್ದದಂತೆ",
+        "ಕಂಗಳ ಮರೆಯಲಡಗಿದ ಬೆಳಗಿನಂತೆ-",
+        "ಗುಹೇಶ್ವರಾ ನಿಮ್ಮ ನಿಲವು!"
+      ],
+      "meanings": [
+        {
+          "kannada": "ನೆಲದ ಮರೆಯ ನಿಧಾನದಂತೆ,",
+          "transliteration": "nelada mareya nidhānadaṃte,",
+          "english": "Like a hidden treasure concealed beneath the earth,"
+        },
+        {
+          "kannada": "ಮುಗಿಲ ಮರೆಯಲಡಗಿದ ಮಿಂಚಿನಂತೆ,",
+          "transliteration": "mugila mareyalada gida miñcinante,",
+          "english": "Like lightning hidden within the clouds,"
+        },
+        {
+          "kannada": "ಬಯಲ ಮರೆಯಲಡಗಿದ ಮರೀಚಿಯಂತೆ.",
+          "transliteration": "bayala mareyalada gida marīciyante.",
+          "english": "Like a mirage concealed within the vast open plain,"
+        },
+        {
+          "kannada": "ಶಬ್ದದ ಮರೆಯ ನಿಶ್ಯಬ್ದದಂತೆ",
+          "transliteration": "śabdada mareya niśśabdadante,",
+          "english": "Like silence hidden within sound,"
+        },
+        {
+          "kannada": "ಕಂಗಳ ಮರೆಯಲಡಗಿದ ಬೆಳಗಿನಂತೆ-",
+          "transliteration": "kaṅgaḷa mareyalada gida beḷaginante,",
+          "english": "Like light hidden behind the eyes,"
+        },
+        {
+          "kannada": "ಗುಹೇಶ್ವರಾ ನಿಮ್ಮ ನಿಲವು!",
+          "transliteration": "guhēśvarā nimma nilavu!",
+          "english": "O Guheshwara, such is Your abiding presence!"
+        }
+      ],
+      "contextCards": [
+        {
+          "text": "Allama Prabhu reveals that the Divine is ever-present yet hidden, just as treasure, lightning, silence, and light remain concealed until they are realized."
+        },
+        {
+          "text": "The vachana teaches that God's true abode is not external but subtly present within all existence, waiting to be discovered through inner awakening."
+        }
+      ]
+    },
+    {
+      "weekNumber": 32,
+      "vachankaraName": "Siddarama",
+      "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=16525&poet=228",
+      "vachanaLines": [
+        "ಅಂದು ಅನಾದಿಯಲ್ಲಿ ತಂದು ಬಿತ್ತಿದ ಬೀಜ",
+        "ಮುಂದಕ್ಕೆ ಮೂಲ ನಾಶವೈ.",
+        "ಸಾಧಿಸುವ ನಿಜವ ಮೂಲನಾಶವ ಮಾಡಿದರೆ",
+        "ತಾನೆ ಫಲ ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನಾ."
+      ],
+      "meanings": [
+        {
+          "kannada": "ಅಂದು ಅನಾದಿಯಲ್ಲಿ ತಂದು ಬಿತ್ತಿದ ಬೀಜ",
+          "transliteration": "andu anādiyalli tandu bittida bīja",
+          "english": "The seed that was sown from beginningless time,"
+        },
+        {
+          "kannada": "ಮುಂದಕ್ಕೆ ಮೂಲ ನಾಶವೈ.",
+          "transliteration": "mundakke mūla nāśavai.",
+          "english": "Its very root must be destroyed completely."
+        },
+        {
+          "kannada": "ಸಾಧಿಸುವ ನಿಜವ ಮೂಲನಾಶವ ಮಾಡಿದರೆ",
+          "transliteration": "sādhisuva nijava mūlanāśava mādidare",
+          "english": "When one truly uproots the root cause through spiritual practice,"
+        },
+        {
+          "kannada": "ತಾನೆ ಫಲ ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನಾ.",
+          "transliteration": "tāne phala kapilasiddhamallikārjunā.",
+          "english": "Only then does one attain the true fruit, O Kapilasiddha Mallikarjuna."
+        }
+      ],
+      "contextCards": [
+        {
+          "text": "Siddarama teaches that liberation comes not by treating the symptoms of ignorance but by destroying its very root, accumulated over countless lifetimes."
+        },
+        {
+          "text": "The vachana emphasizes that genuine spiritual practice must uproot the fundamental cause of bondage; only then can one experience the true fruit of realization."
+        }
+      ]
     }
-  ],
-  "contextCards": [
-    {
-      "text": "Basavanna teaches that true worth is determined by inner power and purpose, not by outward size or appearance."
-    },
-    {
-      "text": "A heart constantly remembering God may appear small or ordinary, but it possesses immeasurable spiritual greatness."
-    }
-  ]
-},
-{
-  "weekNumber": 30,
-  "vachankaraName": "Akkamahadevi",
-  "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=1623&poet=1",
-  "vachanaLines": [
-    "ಅಕ್ಕ ಕೇಳಕ್ಕಾ, ನಾನೊಂದು ಕನಸ ಕಂಡೆ.",
-    "ಚಿಕ್ಕ ಚಿಕ್ಕ ಕೆಂಜೆಡೆಗಳ ಸುಲಿಪಲ್ಲ ಗೊರವನು ಬಂದೆನ್ನ ನೆರೆದ ನೋಡವ್ವಾ.",
-    "ಆತನನಪ್ಪಿಕೊಂಡು ತಳವೆಳಗಾದೆನು.",
-    "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನ ಕಂಡು ಕಣ್ಣಮುಚ್ಚಿ ತೆರೆದು ತಳವೆಳಗಾದೆನು."
-  ],
-  "meanings": [
-    {
-      "kannada": "ಅಕ್ಕ ಕೇಳಕ್ಕಾ, ನಾನೊಂದು ಕನಸ ಕಂಡೆ.",
-      "transliteration": "akka kēḷakkā, nānondu kanasa kaṇḍe.",
-      "english": "Sister, listen! I had a dream."
-    },
-    {
-      "kannada": "ಚಿಕ್ಕ ಚಿಕ್ಕ ಕೆಂಜೆಡೆಗಳ ಸುಲಿಪಲ್ಲ ಗೊರವನು ಬಂದೆನ್ನ ನೆರೆದ ನೋಡವ್ವಾ.",
-      "transliteration": "cikka cikka keñjeḍegaḷa sulipalla goravanu bandenna nereda nōḍavvā.",
-      "english": "A wandering ascetic with small reddish matted locks came close and stood before me."
-    },
-    {
-      "kannada": "ಆತನನಪ್ಪಿಕೊಂಡು ತಳವೆಳಗಾದೆನು.",
-      "transliteration": "ātanannappikoṇḍu taḷaveḷagādenu.",
-      "english": "I embraced Him and was filled with profound inner joy and fulfillment."
-    },
-    {
-      "kannada": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನ ಕಂಡು ಕಣ್ಣಮುಚ್ಚಿ ತೆರೆದು ತಳವೆಳಗಾದೆನು.",
-      "transliteration": "cennamallikārjunana kaṇḍu kaṇṇu mucci teredu taḷaveḷagādenu.",
-      "english": "Beholding Chennamallikarjuna, I closed and opened my eyes, becoming completely immersed in divine bliss."
-    }
-  ],
-  "contextCards": [
-    {
-      "text": "Akka Mahadevi describes a mystical dream in which she experiences a direct encounter with her Beloved Lord, Chennamallikarjuna."
-    },
-    {
-      "text": "The vachana symbolizes the soul's longing, union, and ultimate fulfillment through intimate realization of the Divine."
-    }
-  ]
-},
-{
-  "weekNumber": 31,
-  "vachankaraName": "Allamaprabhu",
-  "reference": "https://vachana.taralabalu.in/vdetail.php?vdet=2&poet=17",
-  "vachanaLines": [
-    "ನೆಲದ ಮರೆಯ ನಿಧಾನದಂತೆ,",
-    "ಮುಗಿಲ ಮರೆಯಲಡಗಿದ ಮಿಂಚಿನಂತೆ,",
-    "ಬಯಲ ಮರೆಯಲಡಗಿದ ಮರೀಚಿಯಂತೆ.",
-    "ಶಬ್ದದ ಮರೆಯ ನಿಶ್ಯಬ್ದದಂತೆ",
-    "ಕಂಗಳ ಮರೆಯಲಡಗಿದ ಬೆಳಗಿನಂತೆ-",
-    "ಗುಹೇಶ್ವರಾ ನಿಮ್ಮ ನಿಲವು!"
-  ],
-  "meanings": [
-    {
-      "kannada": "ನೆಲದ ಮರೆಯ ನಿಧಾನದಂತೆ,",
-      "transliteration": "nelada mareya nidhānadaṃte,",
-      "english": "Like a hidden treasure concealed beneath the earth,"
-    },
-    {
-      "kannada": "ಮುಗಿಲ ಮರೆಯಲಡಗಿದ ಮಿಂಚಿನಂತೆ,",
-      "transliteration": "mugila mareyalada gida miñcinante,",
-      "english": "Like lightning hidden within the clouds,"
-    },
-    {
-      "kannada": "ಬಯಲ ಮರೆಯಲಡಗಿದ ಮರೀಚಿಯಂತೆ.",
-      "transliteration": "bayala mareyalada gida marīciyante.",
-      "english": "Like a mirage concealed within the vast open plain,"
-    },
-    {
-      "kannada": "ಶಬ್ದದ ಮರೆಯ ನಿಶ್ಯಬ್ದದಂತೆ",
-      "transliteration": "śabdada mareya niśśabdadante,",
-      "english": "Like silence hidden within sound,"
-    },
-    {
-      "kannada": "ಕಂಗಳ ಮರೆಯಲಡಗಿದ ಬೆಳಗಿನಂತೆ-",
-      "transliteration": "kaṅgaḷa mareyalada gida beḷaginante,",
-      "english": "Like light hidden behind the eyes,"
-    },
-    {
-      "kannada": "ಗುಹೇಶ್ವರಾ ನಿಮ್ಮ ನಿಲವು!",
-      "transliteration": "guhēśvarā nimma nilavu!",
-      "english": "O Guheshwara, such is Your abiding presence!"
-    }
-  ],
-  "contextCards": [
-    {
-      "text": "Allama Prabhu reveals that the Divine is ever-present yet hidden, just as treasure, lightning, silence, and light remain concealed until they are realized."
-    },
-    {
-      "text": "The vachana teaches that God's true abode is not external but subtly present within all existence, waiting to be discovered through inner awakening."
-    }
-  ]
-}
   ]
 }
