@@ -880,43 +880,43 @@
 ]
 },
 {
-“weekNumber”: 35,
-“vachankaraName”: “Akkamahadevi”,
-“reference”: “https://vachana.taralabalu.in/vdetail.php?vdet=1626&poet=1”,
-“vachanaLines”: [
-“ಅಕ್ಕಿಯಿಲ್ಲದ ತುಷಕ್ಕೆ ಅಗ್ಗವಣಿಯನೆರೆದಡೆ ಅದೆಂದಿಂಗೆ ಬೆಳೆದು ಫಲವಪ್ಪುದಯ್ಯಾ?”,
-“ಅರಿವಿಲ್ಲದವರಿಗೆ ಆಚಾರವಿದ್ದಡೆ ಅರಕೆಗೆಟ್ಟು ಸುಖವೆಂದಪ್ಪುದಯ್ಯಾ?”,
-“ಹೊರೆದ ಪರಿಮಳ ಸ್ಥಿರವಾಗಬಲ್ಲುದೆ?”,
-“ಎನ್ನದೇವ ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನನರಿಯದವರಿಗೆ ಆಚಾರವಿಲ್ಲ ಕಾಣಿರಣ್ಣಾ”
+"weekNumber: 36,
+"vachankaraName": "Akkamahadevi",
+"reference": "https://vachana.taralabalu.in/vdetail.php?vdet=1626&poet=1",
+"vachanaLines": [
+"ಅಕ್ಕಿಯಿಲ್ಲದ ತುಷಕ್ಕೆ ಅಗ್ಗವಣಿಯನೆರೆದಡೆ ಅದೆಂದಿಂಗೆ ಬೆಳೆದು ಫಲವಪ್ಪುದಯ್ಯಾ?",
+"ಅರಿವಿಲ್ಲದವರಿಗೆ ಆಚಾರವಿದ್ದಡೆ ಅರಕೆಗೆಟ್ಟು ಸುಖವೆಂದಪ್ಪುದಯ್ಯಾ?",
+"ಹೊರೆದ ಪರಿಮಳ ಸ್ಥಿರವಾಗಬಲ್ಲುದೆ?",
+"ಎನ್ನದೇವ ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನನರಿಯದವರಿಗೆ ಆಚಾರವಿಲ್ಲ ಕಾಣಿರಣ್ಣಾ"
 ],
-“meanings”: [
+"meanings": [
 {
-“kannada”: “ಅಕ್ಕಿಯಿಲ್ಲದ ತುಷಕ್ಕೆ ಅಗ್ಗವಣಿಯನೆರೆದಡೆ ಅದೆಂದಿಂಗೆ ಬೆಳೆದು ಫಲವಪ್ಪುದಯ್ಯಾ?”,
-“transliteration”: “akkiyillada tuṣakke aggavaṇiyaneredade adendinge beḷedu phalavappudayyā?”,
-“english”: “If one pours fertilizer on husk without grain, how can it ever grow and bear fruit?”
+"kannada": "ಅಕ್ಕಿಯಿಲ್ಲದ ತುಷಕ್ಕೆ ಅಗ್ಗವಣಿಯನೆರೆದಡೆ ಅದೆಂದಿಂಗೆ ಬೆಳೆದು ಫಲವಪ್ಪುದಯ್ಯಾ?",
+"transliteration": "akkiyillada tuṣakke aggavaṇiyaneredade adendinge beḷedu phalavappudayyā?",
+"english": "If one pours fertilizer on husk without grain, how can it ever grow and bear fruit?"
 },
 {
-“kannada”: “ಅರಿವಿಲ್ಲದವರಿಗೆ ಆಚಾರವಿದ್ದಡೆ ಅರಕೆಗೆಟ್ಟು ಸುಖವೆಂದಪ್ಪುದಯ್ಯಾ?”,
-“transliteration”: “arivilladavarge ācāraviddade arakegeṭṭu sukha vendappudayyā?”,
-“english”: “If those without spiritual understanding merely follow outward practices, how can they attain true happiness?”
+"kannada": "ಅರಿವಿಲ್ಲದವರಿಗೆ ಆಚಾರವಿದ್ದಡೆ ಅರಕೆಗೆಟ್ಟು ಸುಖವೆಂದಪ್ಪುದಯ್ಯಾ?",
+"transliteration": "arivilladavarge ācāraviddade arakegeṭṭu sukha vendappudayyā?",
+"english": "If those without spiritual understanding merely follow outward practices, how can they attain true happiness?"
 },
 {
-“kannada”: “ಹೊರೆದ ಪರಿಮಳ ಸ್ಥಿರವಾಗಬಲ್ಲುದೆ?”,
-“transliteration”: “horedha parimaḷa sthiravāgaballude?”,
-“english”: “Can a fragrance that is merely spread outward remain permanent?”
+"kannada": "ಹೊರೆದ ಪರಿಮಳ ಸ್ಥಿರವಾಗಬಲ್ಲುದೆ?",
+"transliteration": "horedha parimaḷa sthiravāgaballude?",
+"english": "Can a fragrance that is merely spread outward remain permanent?"
 },
 {
-“kannada”: “ಎನ್ನದೇವ ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನನರಿಯದವರಿಗೆ ಆಚಾರವಿಲ್ಲ ಕಾಣಿರಣ್ಣಾ”,
-“transliteration”: “ennadēva chennamallikārjunanariyadavarge ācāravilla kāṇiraṇṇā”,
-“english”: “Know this, dear ones: those who do not know my Lord Chennamallikarjuna have no true spiritual conduct.”
+"kannada": "ಎನ್ನದೇವ ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನನರಿಯದವರಿಗೆ ಆಚಾರವಿಲ್ಲ ಕಾಣಿರಣ್ಣಾ",
+"transliteration": "ennadēva chennamallikārjunanariyadavarge ācāravilla kāṇiraṇṇā",
+"english": "Know this, dear ones: those who do not know my Lord Chennamallikarjuna have no true spiritual conduct."
 }
 ],
-“contextCards”: [
+"contextCards": [
 {
-“text”: “Akkamahadevi teaches that outward rituals without inner spiritual understanding are empty, like nurturing husk without grain.”
+"text": "Akkamahadevi teaches that outward rituals without inner spiritual understanding are empty, like nurturing husk without grain."
 },
 {
-“text”: “True conduct arises from knowing and experiencing the Divine, not merely from performing external practices.”
+"text": "True conduct arises from knowing and experiencing the Divine, not merely from performing external practices."
 }
 ]
 }
